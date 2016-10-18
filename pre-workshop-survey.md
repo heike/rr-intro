@@ -56,6 +56,7 @@ How often do you currently program?
 
 What programming languages do you use regularly? *
 Check all that apply
+
 * Python
 * R
 * C / C++
@@ -64,6 +65,7 @@ Check all that apply
 * Other: ______________
 
 How frequently do you make your code, data, and analyses publicly available?
+
 * Never
 * Rarely
 * Sometimes
@@ -80,6 +82,7 @@ If you were to give a colleague all of the data and documentation for a project,
 
 When you do share code / data, what motivates you to do so? *
 Check all that apply
+
 * Journal requirement
 * Funding agency requirement
 * Opinion of PI / supervisor

@@ -152,7 +152,7 @@ their analysis?
 - Everyone struggles with reproducibility and it is a hindrance to moving 
 science forward
 
-- Evan with a fairly simple analysis challenges were faced in four main areas:
+- Even with a fairly simple analysis challenges were faced in four main areas:
 organization, documentation, automation, and dissemination
 
 - Over the two day workshop, data analysis tasks will become more complex as we 
@@ -168,7 +168,7 @@ why text files are preferred for documentation
     - *Protip:* Use markdown to document your workflow so that anyone can pick up your
     data and follow what you are doing
     - *Protip:* Use literate programming so that your analysis and your results are
-    tightly connected, or better yet, unseperable
+    tightly connected, or better yet, unseparable
 
 2. **Organization:** tools to organize your projects so that you don't have a single 
 folder with hundreds of files
