@@ -25,22 +25,22 @@ for your operating system – use the links up at the top of the CRAN page.
 
 **Install:** Instructions for installing R and RStudio are provided below, as well as 
 links to videos that walk you through the process. Note newer versions of R and RStudio 
-may have been released since this video, and hence the version names you come accross may 
+may have been released since this video, and hence the version names you come across may 
 not match what you see on the video. However the general instructions should still work.
 
 Do not worry if you run into any trouble during the installation, we will have some time 
 during the workshop to help you.
 
 - Mac / OS X: 
-    - [Video instructios](https://www.youtube.com/watch?v=Ywj6yNfc5nM) - includes RStudio 
+    - [Video instructions](https://www.youtube.com/watch?v=Ywj6yNfc5nM) - includes RStudio 
     installation
-    - Instal R: Install R-3.2.2.pkg. This runs on OS X 10.9 and later (Mavericks 
+    - Install R: Install R-3.2.2.pkg. This runs on OS X 10.9 and later (Mavericks 
     and Yosemite). To install, just double-click on the icon of the file you downloaded. 
     See [here](http://cran.r-project.org/doc/manuals/r-release/R-admin.html#Installing-R-under-OS-X for) for more info.
     - Install RStudio: Double click on RStudio-0.99.484.dmg and follow the prompts.
 
 - PC / Windows: 
-    - [Video instructios](https://www.youtube.com/watch?v=eD07NznguA4)
+    - [Video instructions](https://www.youtube.com/watch?v=eD07NznguA4)
     - Install R: Installation is via the installer R-3.2.2-win.exe. Just double-click on 
     the icon and follow the instructions. See [here](http://cran.r-project.org/doc/manuals/r-release/R-admin.html#Installing-R-under-Windows) for more info.
     - Install RStudio:Double click on RStudio-0.99.484.exe and follow the prompts.
